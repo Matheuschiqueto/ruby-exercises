@@ -1,0 +1,6 @@
+# Ignorar as pastas de gems instaladas localmente
+vendor/bundle/
+.bundle/
+
+# Ignorar arquivos de sistema do Mac
+.DS_Store
